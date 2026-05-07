@@ -10,9 +10,9 @@ A full-featured, cross-platform mobile app for booking home services (like Urban
 
 <!-- Drop your screenshots in the /screenshots folder and they'll show up here -->
 
-| Login | Sign Up |
-|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
+| Login |
+|:---:|
+| ![Login](screenshots/login.png) |
 
 | Home Screen | Service List | Service Detail |
 |:---:|:---:|:---:|
