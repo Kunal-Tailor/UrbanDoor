@@ -10,21 +10,19 @@ A full-featured, cross-platform mobile app for booking home services (like Urban
 
 <!-- Drop your screenshots in the /screenshots folder and they'll show up here -->
 
-| Onboarding | Login | Sign Up |
-|:---:|:---:|:---:|
-| ![Onboarding](screenshots/onboarding.png) | ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
+| Login | Sign Up |
+|:---:|:---:|
+| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
 
 | Home Screen | Service List | Service Detail |
 |:---:|:---:|:---:|
 | ![Home](screenshots/home.png) | ![Services](screenshots/service_list.png) | ![Detail](screenshots/service_detail.png) |
 
-| Booking | Confirmation | Track Booking |
-|:---:|:---:|:---:|
-| ![Booking](screenshots/booking.png) | ![Confirmed](screenshots/confirmation.png) | ![Track](screenshots/track.png) |
+| Booking |
+|:---:|
+| ![Booking](screenshots/booking.png) |
 
-| Provider Dashboard | Earnings | Provider Profile |
-|:---:|:---:|:---:|
-| ![Dashboard](screenshots/provider_dashboard.png) | ![Earnings](screenshots/earnings.png) | ![Profile](screenshots/provider_profile.png) |
+
 
 ---
 
