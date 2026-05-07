@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "ServeNow",
+    "slug": "servenow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4F46E5"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.servenow.app",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "ServeNow needs your location to find nearby service providers.",
+        "NSCameraUsageDescription": "ServeNow needs camera access for profile photos.",
+        "NSPhotoLibraryUsageDescription": "ServeNow needs photo library access for profile photos."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#4F46E5"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.servenow.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-splash-screen"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "YOUR_EAS_PROJECT_ID"
+      }
+    }
+  }
+}
